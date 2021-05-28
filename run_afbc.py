@@ -3,7 +3,7 @@ import os
 
 import numpy as np
 
-import deep_control as dc
+import rl_utils as dc
 
 from agent import AFBCAgent
 from estimator import AdvantageEstimator

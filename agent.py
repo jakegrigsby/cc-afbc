@@ -1,7 +1,7 @@
 import os
 
 import torch
-from deep_control import nets, device
+from rl_utils import nets, device
 from popart import PopArtLayer
 
 

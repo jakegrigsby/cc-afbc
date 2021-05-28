@@ -13,7 +13,7 @@ import torch.nn.functional as F
 import torch.distributions as pyd
 import tqdm
 
-from deep_control import nets, run, utils, device, replay, models
+from rl_utils import nets, run, utils, device, replay
 
 import filters
 

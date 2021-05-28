@@ -1,7 +1,7 @@
 import os
 import numpy as np
 
-import deep_control as dc
+import rl_utils as dc
 
 
 def load(name, very_bad, bad, ok, good, expert, base_path=None):

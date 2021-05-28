@@ -1,7 +1,7 @@
 from torch import nn
 import torch.nn.functional as F
 import torch
-from deep_control import device
+from rl_utils import device
 import math
 from scipy import stats
 import numpy as np
